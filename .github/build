@@ -4,7 +4,7 @@
 BASE="monkey"
 
 
-# I don't even ..
+# I don't even ...
 go env -w GOFLAGS="-buildvcs=false"
 
 #
